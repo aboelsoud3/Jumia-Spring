@@ -42,6 +42,9 @@ Customer Phone Details entity , beside some other features like search and sort 
   [customer-controller](http://localhost:8080/swagger-ui.html)
   
   7. final you can test it via postman or front-end Angular application :
-   [UI](https://github.com/aboelsoud3/Jumia-Angular)
+   [UI](https://github.com/aboelsoud3/Jumia-Angular).
+   
+or simply just after step 2 "cd Jumia-Spring/" :
+run bash file `./run.sh` -> that will run steps from 3 to 7.   
 
 
